@@ -7,7 +7,6 @@ export class Home extends Component {
                 <h1>Welcome to BreadBasket</h1>
             <div className='textBox'>
                 <p> Hi! I'm Allen.</p>
-                {/* <img width = '400px' src= {aboutPic} alt='Profile pic here!'></img> */}
                 <div className = 'aboutBox'>
                 
                     <p>

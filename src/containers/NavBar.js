@@ -7,7 +7,7 @@ export class Navbar extends Component {
           
                 <div class="ui secondary pointing menu">
                     <a class="active item">
-                        <Link to='/orderpage'>Make an Order</Link>
+                        <Link to='/orderpage'>Search Orders</Link>
                     </a>
                     <a class="item">
                         <Link to='/'>About</Link>
