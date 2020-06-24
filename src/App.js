@@ -7,10 +7,10 @@ import {
 import './App.css';
 import { Link } from 'react-router-dom'
 import NavBar from './containers/NavBar'
-import About from './containers/About'
-import OrderPage from './containers/OrderPage'
-import OrderHistory from './containers/OrderHistory'
-import Contact from './containers/Contact'
+import About from './pages/About'
+import OrderPage from './pages/OrderPage'
+import OrderHistory from './pages/OrderHistory'
+import Contact from './pages/Contact'
 
 function App() {
   return (
